@@ -4,3 +4,6 @@ class Dev():
     
   def fun1(self,a,b):
     return a+b
+  
+  def fun2(self,a,b):
+    return a-b
