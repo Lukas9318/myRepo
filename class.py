@@ -10,3 +10,6 @@ class Dev():
 
   def fun3(self,a,b):
     return a*b
+
+  def fun4(self,a,b):
+    return a/b
