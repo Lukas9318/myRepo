@@ -3,6 +3,7 @@ class Dev():
     pritn("Class Dev")
 
   def fun1(self,a,b):
+    print("Improving the code")
     return a+b
 
   def fun2(self,a,b):
